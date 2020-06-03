@@ -6,3 +6,5 @@ print(word.split(" "))
 word =" ".join(word)
 print(word)
 
+#comment
+
